@@ -1,8 +1,8 @@
 ---
 title: Home
 banner:
-  title: Spectral Theme ()
-  subtitle: "CodeSandbox + Stackbit Demo  \nGatsby + Forestry.io + Spectral Theme
+  title: Spectral
+  subtitle: "CodeSandbox + Stackbit Demo  \nGatsby + Forestry CMS + Spectral Theme
     \ \nExample by Dr. Derek Austin \U0001F973"
   actions:
   - label: Activate
