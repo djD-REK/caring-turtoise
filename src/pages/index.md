@@ -2,8 +2,8 @@
 title: Home
 banner:
   title: Spectral
-  subtitle: "CodeSandbox + Stackbit Demo   \nGatsby + Forestry CMS + Spectral Theme
-    \  \nExample by Dr. Derek Austin \U0001F973"
+  subtitle: "* CodeSandbox + Stackbit Demo\n* Gatsby + Forestry CMS + Spectral Theme\n*
+    Example by Dr. Derek Austin \U0001F973"
   actions:
   - label: Activate
     url: "/generic"
